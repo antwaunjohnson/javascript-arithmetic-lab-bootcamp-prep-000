@@ -42,4 +42,4 @@ function add(a, b) {
      return n;
  }
  
- return parseFloat('2.222')
+ return parseFloat('n')
