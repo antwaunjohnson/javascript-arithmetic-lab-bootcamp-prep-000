@@ -43,5 +43,5 @@ function add(a, b) {
  }
  
  function preserveDecimal(n) {
-   parseFloat('kjoihoih' 2.222,)
+   parseFloat('kjoihoih' (2.222));
  }
