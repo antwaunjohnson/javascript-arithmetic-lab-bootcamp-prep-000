@@ -42,3 +42,7 @@ function add(a, b) {
      return n;
  }
  
+ function preserveDecimal(n) {
+   parseInt('n')
+   return n
+ }
