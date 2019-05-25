@@ -38,8 +38,11 @@ function add(a, b) {
  }
  
   function preserveDecimal(n) {
-     parseFloat('n')
-     return n
+     parseFloat('n');
+     return n;
  }
  
- parseFloat('2.222')
+ function preserveDecimal(n) {
+   parseInt('n')
+   return n
+ }
